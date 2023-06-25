@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkpro_react_admin=self.webpackChunkpro_react_admin||[]).push([[297],{6297:function(r,e,t){var u=t(4836);Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var a=u(t(7294)),n=t(3053),c=function(){return a.default.createElement(a.default.Fragment,null,a.default.createElement(n.Alert,{message:"Success Tips",description:"Detailed description and advice about successful copywriting.",type:"success",showIcon:!0}))},s=c;e.default=s}}]);
+
+//# sourceMappingURL=297.4403429ef691252f56cc.js.map
